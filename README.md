@@ -41,7 +41,7 @@ Performed exploratory analysis on customer data to identify churn patterns and b
 Impact:
 Provided insights that help businesses identify churn drivers and improve retention strategies.
 ### 🏬 Superstore Sales Analysis
-Repository: Superstore-Sales-Analysis
+##### Repository: Superstore-Sales-Analysis
 Domain: Retail & Sales Analytics
 Tools & Tech: MySQL, SQL
 Skills Applied: Data Analysis, Query Optimization, Business Insights
@@ -51,7 +51,8 @@ Impact:
 Helped identify opportunities for profit optimization and operational improvement.
 
 ## 🌱 Currently Learning
-Advanced SQL and query optimization
+Advanced SQL 
+query optimization
 Power BI DAX functions
 Tableau for data visualization
 Real-world business case analysis.
