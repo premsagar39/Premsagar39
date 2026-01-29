@@ -20,8 +20,8 @@ Data Visualization
 Business Insights and Reporting
 
 
-# 🚀 Projects
-## 🍔 Zomato Restaurant Analysis
+## 🚀 Projects
+### 🍔 Zomato Restaurant Analysis
 Repository: Zomato-Restaurant-Analysis
 Domain: Food & Business Analytics
 Tools & Tech: Power BI, SQL
