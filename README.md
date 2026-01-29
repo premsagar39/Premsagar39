@@ -57,6 +57,10 @@ Tableau for data visualization
 Real-world business case analysis.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Premsagar39 &theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Premsagar39 &theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Premsagar39 &theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Premsagar39&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Premsagar39&theme=gruvbox&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Premsagar39&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
