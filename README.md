@@ -31,22 +31,22 @@ Analyzed restaurant data to understand ratings, cuisines, locations, and pricing
 - Impact:
 Supported data-driven insights for restaurant performance evaluation and location-based decision-making.
 ### 📉 Customer Churn Analysis
-Repository: Customer-Churn-Analysis
-Domain: Customer Analytics
-Tools & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
-Skills Applied: EDA, Visualization, Statistical Analysis
-Description:
+- Repository: Customer-Churn-Analysis
+- Domain: Customer Analytics
+- Tools & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
+- Skills Applied: EDA, Visualization, Statistical Analysis
+- Description:
 Performed exploratory analysis on customer data to identify churn patterns and behavioral trends. Visualized key metrics to understand factors influencing customer retention.
-Impact:
+- Impact:
 Provided insights that help businesses identify churn drivers and improve retention strategies.
 ### 🏬 Superstore Sales Analysis
-Repository: Superstore-Sales-Analysis
-Domain: Retail & Sales Analytics
-Tools & Tech: MySQL, SQL
-Skills Applied: Data Analysis, Query Optimization, Business Insights
-Description:
+- Repository: Superstore-Sales-Analysis
+- Domain: Retail & Sales Analytics
+- Tools & Tech: MySQL, SQL
+- Skills Applied: Data Analysis, Query Optimization, Business Insights
+- Description:
 Analyzed sales and profit data using SQL to identify high-performing regions and loss-making products. Conducted trend analysis to support strategic planning.
-Impact:
+- Impact:
 Helped identify opportunities for profit optimization and operational improvement.
 
 ## 🌱 Currently Learning
