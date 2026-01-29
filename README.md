@@ -50,11 +50,11 @@ Impact:
 Helped identify opportunities for profit optimization and operational improvement.
 
 ## 🌱 Currently Learning
-Advanced SQL 
-query optimization
-Power BI DAX functions
-Tableau for data visualization
-Real-world business case analysis.
+-Advanced SQL 
+-query optimization
+-Power BI DAX functions
+-Tableau for data visualization
+-Real-world business case analysis.
 
 # 📊 GitHub Stats:
 
