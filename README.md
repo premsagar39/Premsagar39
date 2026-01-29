@@ -12,14 +12,13 @@ Beyond structured learning, I continuously work on improving my technical and co
 
 
 # 🧠 Core Skills
-Data Analysis
-excel
-Exploratory Data Analysis (EDA)
-Data Cleaning and Preparation
-KPI Analysis
-Data Visualization
-Business Insights and Reporting
 
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-grey?style=plastic)
+![Excel](https://img.shields.io/badge/Excel-grey?style=plastic)
+![EDA](https://img.shields.io/badge/EDA-grey?style=plastic)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-grey?style=plastic)
+![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-grey?style=plastic)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-grey?style=plastic)
 
 # 🚀 Projects
 ### 🍔 Zomato Restaurant Analysis
