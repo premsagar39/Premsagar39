@@ -4,13 +4,14 @@ Through hands-on projects and self-driven learning, I have worked extensively wi
 One of my most valuable learning experiences involved building interactive dashboards and analytical reports that highlighted key performance indicators and trends across domains such as food delivery, retail sales, and customer behavior. These projects strengthened my ability to think analytically, ask the right business questions, and communicate insights effectively to both technical and non-technical audiences.
 I am particularly interested in data visualization and business analytics, where data storytelling plays a critical role. I focus on building clean dashboards, writing optimized SQL queries, and ensuring data accuracy through proper modeling and validation.
 Beyond structured learning, I continuously work on improving my technical and communication skills, staying updated with industry practices, and exploring new tools in analytics. I am always open to learning, collaboration, and discussions around data analytics and real-world problem solving.
-## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/premsagar123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premsagarsingara39@gmail.com) 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/premsagar123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premsagarsingara39@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 
-## 🧠 Core Skills
+# 🧠 Core Skills
 Data Analysis
 excel
 Exploratory Data Analysis (EDA)
@@ -20,8 +21,8 @@ Data Visualization
 Business Insights and Reporting
 
 
-## 🚀 Projects
-### 🍔 Zomato Restaurant Analysis
+# 🚀 Projects
+## 🍔 Zomato Restaurant Analysis
 Repository: Zomato-Restaurant-Analysis
 Domain: Food & Business Analytics
 Tools & Tech: Power BI, SQL
