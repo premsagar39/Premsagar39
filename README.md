@@ -1,9 +1,66 @@
-#💫 About Me
+# 💫 About Me
 I am Prem Sagar, a B.Tech graduate and aspiring Data Analyst with a strong interest in uncovering meaningful insights from raw data. My journey into data analytics began during my undergraduate studies, where I developed a curiosity for understanding patterns, trends, and business problems hidden within datasets.
 Through hands-on projects and self-driven learning, I have worked extensively with SQL, Excel, Python, and Power BI to perform data cleaning, exploratory data analysis, and visualization. I enjoy working with real-world datasets and transforming complex information into clear, actionable insights that support business decision-making.
 One of my most valuable learning experiences involved building interactive dashboards and analytical reports that highlighted key performance indicators and trends across domains such as food delivery, retail sales, and customer behavior. These projects strengthened my ability to think analytically, ask the right business questions, and communicate insights effectively to both technical and non-technical audiences.
 I am particularly interested in data visualization and business analytics, where data storytelling plays a critical role. I focus on building clean dashboards, writing optimized SQL queries, and ensuring data accuracy through proper modeling and validation.
 Beyond structured learning, I continuously work on improving my technical and communication skills, staying updated with industry practices, and exploring new tools in analytics. I am always open to learning, collaboration, and discussions around data analytics and real-world problem solving.
+
+## 🌐 Socials
+LinkedIn: https://www.linkedin.com/in/premsagar123
+Email: premsagarsingara39@gmail.com
+
+## 🧠 Core Skills
+Data Analysis
+Exploratory Data Analysis (EDA)
+Data Cleaning and Preparation
+KPI Analysis
+Data Visualization
+Business Insights and Reporting
+
+## 💻 Tech Stack
+Programming & Analysis: Python (Pandas, NumPy)
+Databases: MySQL, SQL
+Visualization Tools: Power BI, Matplotlib, Seaborn
+Data Tools: Excel
+Concepts: Data Modeling, DAX Basics
+
+## 🚀 Projects
+🍔 Zomato Restaurant Analysis
+Repository: Zomato-Restaurant-Analysis
+Domain: Food & Business Analytics
+Tools & Tech: Power BI, SQL
+Skills Applied: Data Cleaning, EDA, KPI Analysis, Dashboard Design
+Description:
+Analyzed restaurant data to understand ratings, cuisines, locations, and pricing trends. Built interactive Power BI dashboards using slicers and KPIs to uncover customer preferences and market patterns.
+Impact:
+Supported data-driven insights for restaurant performance evaluation and location-based decision-making.
+📉 Customer Churn Analysis
+Repository: Customer-Churn-Analysis
+Domain: Customer Analytics
+Tools & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
+Skills Applied: EDA, Visualization, Statistical Analysis
+Description:
+Performed exploratory analysis on customer data to identify churn patterns and behavioral trends. Visualized key metrics to understand factors influencing customer retention.
+Impact:
+Provided insights that help businesses identify churn drivers and improve retention strategies.
+🏬 Superstore Sales Analysis
+Repository: Superstore-Sales-Analysis
+Domain: Retail & Sales Analytics
+Tools & Tech: MySQL, SQL
+Skills Applied: Data Analysis, Query Optimization, Business Insights
+Description:
+Analyzed sales and profit data using SQL to identify high-performing regions and loss-making products. Conducted trend analysis to support strategic planning.
+Impact:
+Helped identify opportunities for profit optimization and operational improvement.
+
+## 🌱 Currently Learning
+Advanced SQL and query optimization
+Power BI DAX functions
+Tableau for data visualization
+Real-world business case analysis
+## 🎯 Career Objective
+To secure an entry-level Data Analyst role where I can apply my analytical skills, continue learning from real-world business challenges, and contribute to data-driven decision-making in a professional environment.
+
 
 
 ## 🌐 Socials:
