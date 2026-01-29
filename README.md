@@ -22,7 +22,7 @@ Business Insights and Reporting
 
 
 # 🚀 Projects
-🍔 Zomato Restaurant Analysis
+### 🍔 Zomato Restaurant Analysis
 Repository: Zomato-Restaurant-Analysis
 Domain: Food & Business Analytics
 Tools & Tech: Power BI, SQL
@@ -31,7 +31,7 @@ Description:
 Analyzed restaurant data to understand ratings, cuisines, locations, and pricing trends. Built interactive Power BI dashboards using slicers and KPIs to uncover customer preferences and market patterns.
 Impact:
 Supported data-driven insights for restaurant performance evaluation and location-based decision-making.
-## 📉 Customer Churn Analysis
+### 📉 Customer Churn Analysis
 Repository: Customer-Churn-Analysis
 Domain: Customer Analytics
 Tools & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
@@ -40,7 +40,7 @@ Description:
 Performed exploratory analysis on customer data to identify churn patterns and behavioral trends. Visualized key metrics to understand factors influencing customer retention.
 Impact:
 Provided insights that help businesses identify churn drivers and improve retention strategies.
-## 🏬 Superstore Sales Analysis
+### 🏬 Superstore Sales Analysis
 Repository: Superstore-Sales-Analysis
 Domain: Retail & Sales Analytics
 Tools & Tech: MySQL, SQL
