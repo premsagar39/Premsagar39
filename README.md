@@ -22,13 +22,13 @@ Beyond structured learning, I continuously work on improving my technical and co
 
 # 🚀 Projects
 ### 🍔 Zomato Restaurant Analysis
-Repository: Zomato-Restaurant-Analysis
-Domain: Food & Business Analytics
-Tools & Tech: Power BI, SQL
-Skills Applied: Data Cleaning, EDA, KPI Analysis, Dashboard Design
-Description:
+- Repository: Zomato-Restaurant-Analysis
+- Domain: Food & Business Analytics
+- Tools & Tech: Power BI, SQL
+- Skills Applied: Data Cleaning, EDA, --- KPI Analysis, Dashboard Design
+- Description:
 Analyzed restaurant data to understand ratings, cuisines, locations, and pricing trends. Built interactive Power BI dashboards using slicers and KPIs to uncover customer preferences and market patterns.
-Impact:
+- Impact:
 Supported data-driven insights for restaurant performance evaluation and location-based decision-making.
 ### 📉 Customer Churn Analysis
 Repository: Customer-Churn-Analysis
@@ -50,11 +50,11 @@ Impact:
 Helped identify opportunities for profit optimization and operational improvement.
 
 ## 🌱 Currently Learning
--Advanced SQL 
--query optimization
--Power BI DAX functions
--Tableau for data visualization
--Real-world business case analysis.
+- Advanced SQL 
+- query optimization
+- Power BI DAX functions
+- Tableau for data visualization
+- Real-world business case analysis.
 
 # 📊 GitHub Stats:
 
