@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me 
 I am Prem Sagar, a B.Tech graduate and aspiring Data Analyst with a strong interest in uncovering meaningful insights from raw data. My journey into data analytics began during my undergraduate studies, where I developed a curiosity for understanding patterns, trends, and business problems hidden within datasets.
 Through hands-on projects and self-driven learning, I have worked extensively with SQL, Excel, Python, and Power BI to perform data cleaning, exploratory data analysis, and visualization. I enjoy working with real-world datasets and transforming complex information into clear, actionable insights that support business decision-making.
 One of my most valuable learning experiences involved building interactive dashboards and analytical reports that highlighted key performance indicators and trends across domains such as food delivery, retail sales, and customer behavior. These projects strengthened my ability to think analytically, ask the right business questions, and communicate insights effectively to both technical and non-technical audiences.
