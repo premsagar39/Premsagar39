@@ -39,10 +39,10 @@ Supported data-driven insights for restaurant performance evaluation and locatio
 Performed exploratory analysis on customer data to identify churn patterns and behavioral trends. Visualized key metrics to understand factors influencing customer retention.
 - Impact:
 Provided insights that help businesses identify churn drivers and improve retention strategies.
-### 🏬 Superstore Sales Analysis
+### 🏬 bussiness insights Sales Analysis dashboard
 - Repository: Superstore-Sales-Analysis
 - Domain: Retail & Sales Analytics
-- Tools & Tech: MySQL, SQL
+- Tools & Tech: MySQL, SQL,power bi
 - Skills Applied: Data Analysis, Query Optimization, Business Insights
 - Description:
 Analyzed sales and profit data using SQL to identify high-performing regions and loss-making products. Conducted trend analysis to support strategic planning.
