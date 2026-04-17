@@ -48,6 +48,13 @@ Provided insights that help businesses identify churn drivers and improve retent
 Analyzed sales and profit data using SQL to identify high-performing regions and loss-making products. Conducted trend analysis to support strategic planning.
 - Impact:
 Helped identify opportunities for profit optimization and operational improvement.
+This is an end-to-end data analytics project using  MySQL and Power BI to analyze Superstore sales data and generate actionable business insights.
+
+The project includes:
+
+- Data extraction and transformation using SQL
+- Business analysis using advanced queries
+- Visualization using a interactive Power BI dashboard
 
 ## 🌱 Currently Learning
 - Advanced SQL 
