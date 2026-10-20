@@ -1,73 +1,53 @@
-# 💫 About Me 
-I am Prem Sagar, a B.Tech graduate and aspiring Data Analyst with a strong interest in uncovering meaningful insights from raw data. My journey into data analytics began during my undergraduate studies, where I developed a curiosity for understanding patterns, trends, and business problems hidden within datasets.
-Through hands-on projects and self-driven learning, I have worked extensively with SQL, Excel, Python, and Power BI to perform data cleaning, exploratory data analysis, and visualization. I enjoy working with real-world datasets and transforming complex information into clear, actionable insights that support business decision-making.
-One of my most valuable learning experiences involved building interactive dashboards and analytical reports that highlighted key performance indicators and trends across domains such as food delivery, retail sales, and customer behavior. These projects strengthened my ability to think analytically, ask the right business questions, and communicate insights effectively to both technical and non-technical audiences.
-I am particularly interested in data visualization and business analytics, where data storytelling plays a critical role. I focus on building clean dashboards, writing optimized SQL queries, and ensuring data accuracy through proper modeling and validation.
-Beyond structured learning, I continuously work on improving my technical and communication skills, staying updated with industry practices, and exploring new tools in analytics. I am always open to learning, collaboration, and discussions around data analytics and real-world problem solving.
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/premsagar123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premsagarsingara39@gmail.com) 
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Prem Sagar | Aspiring Data Analyst and AI/ML Engineer | Data Science training at ExcelR" width="100%" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+<p align="center">
+  <a href="https://digital-portfolio-builder.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/premsagar123"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:premsagarsingara39@gmail.com"><b>Email</b></a>
+</p>
 
+I'm **Prem Sagar**, a B.Tech graduate currently taking **Data Science training at ExcelR**. I'm preparing for **Data Analyst, AI Engineer, and ML Engineer** roles, combining an analytics portfolio with coursework in machine learning, deep learning, natural language processing, and generative AI.
 
-# 🧠 Core Skills
+**Career interests: Data Analytics · Artificial Intelligence · Machine Learning**
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-grey?style=plastic)
-![Excel](https://img.shields.io/badge/Excel-grey?style=plastic)
-![EDA](https://img.shields.io/badge/EDA-grey?style=plastic)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-grey?style=plastic)
-![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-grey?style=plastic)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-grey?style=plastic)
+## Featured case study · Zomato Restaurant Insights
 
-# 🚀 Projects
-### 🍔 Zomato Restaurant Analysis
-- Repository: Zomato-Restaurant-Analysis
-- Domain: Food & Business Analytics
-- Tools & Tech: Power BI, SQL
-- Skills Applied: Data Cleaning, EDA, --- KPI Analysis, Dashboard Design
-- Description:
-Analyzed restaurant data to understand ratings, cuisines, locations, and pricing trends. Built interactive Power BI dashboards using slicers and KPIs to uncover customer preferences and market patterns.
-- Impact:
-Supported data-driven insights for restaurant performance evaluation and location-based decision-making.
-### 📉 Customer Churn Analysis
-- Repository: Customer-Churn-Analysis
-- Domain: Customer Analytics
-- Tools & Tech: Python, Pandas, NumPy, Matplotlib, Seaborn
-- Skills Applied: EDA, Visualization, Statistical Analysis
-- Description:
-Performed exploratory analysis on customer data to identify churn patterns and behavioral trends. Visualized key metrics to understand factors influencing customer retention.
-- Impact:
-Provided insights that help businesses identify churn drivers and improve retention strategies.
-### 🏬 bussiness insights Sales Analysis dashboard
-- Repository: Superstore-Sales-Analysis
-- Domain: Retail & Sales Analytics
-- Tools & Tech: MySQL, SQL,power bi
-- Skills Applied: Data Analysis, Query Optimization, Business Insights
-- Description:
-Analyzed sales and profit data using SQL to identify high-performing regions and loss-making products. Conducted trend analysis to support strategic planning.
-- Impact:
-Helped identify opportunities for profit optimization and operational improvement.
-This is an end-to-end data analytics project using  MySQL and Power BI to analyze Superstore sales data and generate actionable business insights.
+**9,551 restaurants · 15 countries · 5 report pages · 43 DAX measures**
 
-The project includes:
+Which cities and cuisines dominate the sample, and where do highly voted restaurants lack online delivery?
 
-- Data extraction and transformation using SQL
-- Business analysis using advanced queries
-- Visualization using a interactive Power BI dashboard
+- Built a restaurant–cuisine model, selected-market benchmarks, interactive filters, and contextual tooltips.
+- Identified **1,762 restaurants with 100+ votes and no online delivery**, an exploratory service-coverage segment.
+- Documented measure definitions, data checks, refresh steps, and interpretation limits.
 
-## 🌱 Currently Learning
-- Advanced SQL 
-- query optimization
-- Power BI DAX functions
-- Tableau for data visualization
-- Real-world business case analysis.
+**[Explore the project →](https://github.com/premsagar39/zomato-power-bi-dashboard)** · [Open the PBIX](https://github.com/premsagar39/zomato-power-bi-dashboard/blob/main/dashboard/Zomato_Insights.pbix) · [Read the DAX](https://github.com/premsagar39/zomato-power-bi-dashboard/blob/main/dax/measures.dax)
 
-# 📊 GitHub Stats:
+## More projects
 
-![](https://github-readme-stats.vercel.app/api?username=Premsagar39&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+| Project | Analysis focus | Review the work |
+| :--- | :--- | :--- |
+| **[Superstore Sales](https://github.com/premsagar39/bussiness-insights-sales-dashboard)** | Sales, profit, discounts, and shipping using MySQL and Power BI. | [SQL queries](https://github.com/premsagar39/bussiness-insights-sales-dashboard/tree/main/queries) |
+| **[Telecom Customer Churn](https://github.com/premsagar39/telecom-Customer-Churn-Analysis)** | Python EDA of tenure, contracts, billing, and churn. | [Jupyter notebook](https://github.com/premsagar39/telecom-Customer-Churn-Analysis/blob/main/notebooks/Customer_Churn_Analysis.ipynb) |
+| **[Coffee Shop Sales](https://github.com/premsagar39/coffee-shop-sales-excel-dashboard)** | Spreadsheet dashboard covering sales, product categories, and time trends. | [Dashboard preview](https://github.com/premsagar39/coffee-shop-sales-excel-dashboard/blob/main/coffee%20sales%20dashboard%20.png) |
+| **[HR Analytics](https://github.com/premsagar39/HR-Analytics-Dashboard)** | Tableau dashboard exploring attrition and workforce patterns. | [Dashboard preview](https://github.com/premsagar39/HR-Analytics-Dashboard/blob/main/hr%20analytics%20dashboard.png) |
+| **[Diwali Sales](https://github.com/premsagar39/diwali-sales-analysis-powerbi)** | Power BI analysis of customer segments, products, and regional sales. | [Repository and PBIX](https://github.com/premsagar39/diwali-sales-analysis-powerbi) |
 
-![](https://nirzak-streak-stats.vercel.app/?user=Premsagar39&theme=gruvbox&hide_border=false)
+## Data Science and AI/ML training
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Premsagar39&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My current ExcelR training has covered **Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI**. These topics extend my Python and data-analysis foundation toward AI/ML engineering. The projects linked above demonstrate my completed analytics work.
 
+## Tools and knowledge
+
+| Area | Tools and techniques |
+| :--- | :--- |
+| **Business intelligence** | Power BI, DAX, Power Query, data modeling, Tableau |
+| **SQL analysis** | MySQL, joins, aggregations, subqueries, window functions |
+| **Spreadsheet reporting** | Excel, pivot tables, charts, KPI summaries |
+| **Exploratory analysis** | Python, pandas, NumPy, Matplotlib, Seaborn |
+| **AI/ML coursework at ExcelR** | Machine Learning, Deep Learning, NLP, Generative AI |
+
+I focus on checking the data, defining metrics clearly, and distinguishing observed patterns from assumptions. My repositories contain the dashboards, queries, notebooks, and supporting files behind the analysis.
+
+**[View my portfolio](https://digital-portfolio-builder.vercel.app/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/premsagar123)** · **[Contact me](mailto:premsagarsingara39@gmail.com)**
