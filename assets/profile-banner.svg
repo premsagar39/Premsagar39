@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="276" viewBox="0 0 1200 276" role="img" aria-labelledby="title desc">
+<title id="title">Prem Sagar — Data Analytics and AI/ML</title>
+<desc id="desc">Aspiring Data Analyst and AI/ML Engineer. Data Science training at ExcelR; coursework covers machine learning, deep learning, NLP and generative AI.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#163a46"/></linearGradient></defs>
+<rect width="1200" height="276" rx="20" fill="url(#bg)"/>
+<path d="M0 275H1200" stroke="#38c9b1" stroke-width="6"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="46" y="35" width="5" height="18" rx="2" fill="#f1bd5b"/>
+<text x="65" y="49" fill="#a6dcd7" font-size="14" font-weight="600" letter-spacing="3">DATA ANALYTICS + AI / ML</text>
+<text x="46" y="115" fill="#ffffff" font-size="54" font-weight="700">Prem Sagar</text>
+<text x="48" y="151" fill="#d4e6ef" font-size="23">Aspiring Data Analyst &amp; AI/ML Engineer</text>
+<text x="48" y="194" fill="#9bd7d0" font-size="18">Python · SQL · Power BI · Data Science</text>
+<text x="48" y="236" fill="#d5e3ea" font-size="16">ExcelR training · Machine Learning · Deep Learning · NLP · GenAI</text>
+<g transform="translate(818 40)">
+<rect width="330" height="194" rx="15" fill="#102c3a" stroke="#39616a"/>
+<text x="22" y="30" fill="#d4e6ef" font-size="13" letter-spacing="2">FROM SOURCE TO STORY</text>
+<path d="M25 145H302M25 109H302M25 73H302" stroke="#254755"/>
+<rect x="39" y="115" width="30" height="30" rx="4" fill="#2b706e"/>
+<rect x="85" y="97" width="30" height="48" rx="4" fill="#398b86"/>
+<rect x="131" y="79" width="30" height="66" rx="4" fill="#43a799"/>
+<rect x="177" y="89" width="30" height="56" rx="4" fill="#55c6af"/>
+<rect x="223" y="57" width="30" height="88" rx="4" fill="#f1bd5b"/>
+<text x="22" y="175" fill="#9dbcc7" font-size="12" letter-spacing="1.2">CLEAN  /  MODEL  /  EXPLAIN</text>
+</g></g></svg>
