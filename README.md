@@ -12,7 +12,16 @@ I'm **Prem Sagar**, a B.Tech graduate currently taking **Data Science training a
 
 **Career interests: Data Analytics · Artificial Intelligence · Machine Learning**
 
-## Featured case study · Zomato Restaurant Insights
+## Featured analytics projects
+
+| Project | Scope and business questions | Evidence |
+| :--- | :--- | :--- |
+| **[Customer Intelligence and Revenue Analytics](https://github.com/premsagar39/customer-intelligence-revenue-analytics)** | Checked **1.067 million source rows**; analyzed returns, RFM segments, repeat purchasing and customer cohorts. | 20 SQL queries · 24 DAX measures · 3 Power BI pages · Python validation |
+| **[Banking Credit Risk and Loan Portfolio Analytics](https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics)** | Analyzed **2.26 million accepted loans**; compared grade, vintage and resolved-loan outcomes with maturity limitations documented. | 20 SQL queries · 24 DAX measures · 4 Power BI pages · Python validation |
+
+Each repository includes reproducible code, metric definitions, aggregate results, dashboard previews and editable Power BI source. The loan study is descriptive portfolio analysis; it does not claim a loan-origination prediction model.
+
+## Zomato Restaurant Insights
 
 **9,551 restaurants · 15 countries · 5 report pages · 43 DAX measures**
 
