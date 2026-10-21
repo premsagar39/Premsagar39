@@ -8,7 +8,7 @@
   <a href="mailto:premsagarsingara39@gmail.com"><b>Email</b></a>
 </p>
 
-I'm **Prem Sagar**, a B.Tech graduate currently taking **Data Science training at ExcelR**. I'm preparing for **Data Analyst, AI Engineer, and ML Engineer** roles, combining an analytics portfolio with coursework in machine learning, deep learning, natural language processing, and generative AI.
+I'm **Prem Sagar**, a B.Tech graduate with **Data Science training at ExcelR**. I'm preparing for **Data Analyst, AI Engineer, and ML Engineer** roles, combining an analytics portfolio with coursework in machine learning, deep learning, natural language processing, and generative AI.
 
 **Career interests: Data Analytics · Artificial Intelligence · Machine Learning**
 
@@ -16,9 +16,9 @@ I'm **Prem Sagar**, a B.Tech graduate currently taking **Data Science training a
 
 | Project | Scope and business questions | Evidence |
 | :--- | :--- | :--- |
-| **[Customer Intelligence and Revenue Analytics](https://github.com/premsagar39/customer-intelligence-revenue-analytics)** | Checked **1.067 million source rows**; analyzed returns, RFM segments, repeat purchasing and customer cohorts. | 20 SQL queries · 24 DAX measures · 3 Power BI pages · Python validation |
-| **[Banking Credit Risk and Loan Portfolio Analytics](https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics)** | Analyzed **2.26 million accepted loans**; compared grade, vintage and resolved-loan outcomes with maturity limitations documented. | 20 SQL queries · 24 DAX measures · 4 Power BI pages · Python validation |
-| **[Retail Demand Forecasting and Inventory Analytics](https://github.com/premsagar39/retail-sales-demand-inventory-analytics)** | **3.00 million sales records**, 54 stores and 33 families; four forecasting models with chronological validation and labeled inventory scenarios. | 20 SQL queries · 24 DAX measures · 4 Power BI pages · 9.58% pooled / 22.12% macro-family holdout WAPE |
+| **[Customer Intelligence and Revenue Analytics](https://github.com/premsagar39/customer-intelligence-revenue-analytics)** | Checked **1.067 million source rows**; analyzed returns, RFM segments, repeat purchasing and customer cohorts. | GBP 19.01m net revenue · top customer decile accounts for 63.93% of identified spend |
+| **[Banking Credit Risk and Loan Portfolio Analytics](https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics)** | Analyzed **2.26 million accepted loans**; compared grade, vintage and resolved-loan outcomes with maturity limitations documented. | USD 34.00bn funded · 19.98% charged-off share among resolved loans |
+| **[Retail Demand Forecasting and Inventory Analytics](https://github.com/premsagar39/retail-sales-demand-inventory-analytics)** | **3.00 million sales records**, 54 stores and 33 families; four forecasting models with chronological validation and labeled inventory scenarios. | 9.58% pooled / 22.12% macro-family WAPE on a separate 16-day holdout |
 
 Each repository includes reproducible code, metric definitions, aggregate results, dashboard previews and editable Power BI source. The loan study is descriptive portfolio analysis; it does not claim a loan-origination prediction model.
 
@@ -46,7 +46,7 @@ Which cities and cuisines dominate the sample, and where do highly voted restaur
 
 ## Data Science and AI/ML training
 
-My current ExcelR training has covered **Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI**. These topics extend my Python and data-analysis foundation toward AI/ML engineering. The projects linked above demonstrate my completed analytics work.
+My ExcelR training has covered **Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI**. These topics extend my Python and data-analysis foundation toward AI/ML engineering. The projects linked above demonstrate my completed analytics work.
 
 ## Tools and knowledge
 
