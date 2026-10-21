@@ -18,6 +18,7 @@ I'm **Prem Sagar**, a B.Tech graduate currently taking **Data Science training a
 | :--- | :--- | :--- |
 | **[Customer Intelligence and Revenue Analytics](https://github.com/premsagar39/customer-intelligence-revenue-analytics)** | Checked **1.067 million source rows**; analyzed returns, RFM segments, repeat purchasing and customer cohorts. | 20 SQL queries · 24 DAX measures · 3 Power BI pages · Python validation |
 | **[Banking Credit Risk and Loan Portfolio Analytics](https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics)** | Analyzed **2.26 million accepted loans**; compared grade, vintage and resolved-loan outcomes with maturity limitations documented. | 20 SQL queries · 24 DAX measures · 4 Power BI pages · Python validation |
+| **[Retail Demand Forecasting and Inventory Analytics](https://github.com/premsagar39/retail-sales-demand-inventory-analytics)** | **3.00 million sales records**, 54 stores and 33 families; four forecasting models with chronological validation and labeled inventory scenarios. | 20 SQL queries · 24 DAX measures · 4 Power BI pages · 9.58% pooled / 22.12% macro-family holdout WAPE |
 
 Each repository includes reproducible code, metric definitions, aggregate results, dashboard previews and editable Power BI source. The loan study is descriptive portfolio analysis; it does not claim a loan-origination prediction model.
 
