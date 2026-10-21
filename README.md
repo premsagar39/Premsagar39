@@ -20,7 +20,7 @@ I'm **Prem Sagar**, a B.Tech graduate with **Data Science training at ExcelR**. 
 | **[Banking Credit Risk and Loan Portfolio Analytics](https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics)** | Analyzed **2.26 million accepted loans**; compared grade, vintage and resolved-loan outcomes with maturity limitations documented. | USD 34.00bn funded · 19.98% charged-off share among resolved loans |
 | **[Retail Demand Forecasting and Inventory Analytics](https://github.com/premsagar39/retail-sales-demand-inventory-analytics)** | **3.00 million sales records**, 54 stores and 33 families; four forecasting models with chronological validation and labeled inventory scenarios. | 9.58% pooled / 22.12% macro-family WAPE on a separate 16-day holdout |
 
-Each repository includes reproducible code, metric definitions, aggregate results, dashboard previews and editable Power BI source. The loan study is descriptive portfolio analysis; it does not claim a loan-origination prediction model.
+Each repository includes reproducible code, metric definitions, aggregate results, dashboard previews and editable Power BI source. Each of these three projects now includes **21 SQL analyses and 26 DAX measures**, plus a focused comparison page: customer-weighted RFM spend benchmarks, selected-vintage outcome and coverage gaps, or family-level forecast bias and error review. The reports have distinct themes, filters and contextual tooltips. The loan study is descriptive portfolio analysis; it does not claim a loan-origination prediction model.
 
 ## Zomato Restaurant Insights
 
