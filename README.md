@@ -37,16 +37,16 @@ Which cities and cuisines dominate the sample, and where do highly voted restaur
 
 ## Dashboard gallery
 
-The four Power BI reports include page navigation, collapsible filters, metric and ranking views, contextual tooltips, drillthrough details, and light/dark theme files.
+Four reports, four reading patterns: **Customer Analytics uses an F-shaped layout; Loan Portfolio Analytics uses a T-shaped review; Retail Demand Forecasting uses a right-hand filter workspace and bottom navigation; Zomato uses a central service hub with surrounding panels.** Metric and ranking views, contextual tooltips, drillthrough details and light/dark theme files remain available.
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/premsagar39/customer-intelligence-revenue-analytics"><b>Customer Analytics</b><br><img src="https://raw.githubusercontent.com/premsagar39/customer-intelligence-revenue-analytics/main/reports/figures/portfolio_overview.png" alt="Customer Analytics dashboard" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics"><b>Loan Portfolio Analytics</b><br><img src="https://raw.githubusercontent.com/premsagar39/banking-credit-risk-loan-portfolio-analytics/main/reports/figures/portfolio_overview.png" alt="Loan Portfolio Analytics dashboard" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/premsagar39/customer-intelligence-revenue-analytics"><b>Customer Analytics</b><br><img src="https://raw.githubusercontent.com/premsagar39/customer-intelligence-revenue-analytics/main/reports/figures/portfolio_overview.png?v=20261022-layouts" alt="Customer Analytics dashboard" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics"><b>Loan Portfolio Analytics</b><br><img src="https://raw.githubusercontent.com/premsagar39/banking-credit-risk-loan-portfolio-analytics/main/reports/figures/portfolio_overview.png?v=20261022-layouts" alt="Loan Portfolio Analytics dashboard" width="100%"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/premsagar39/retail-sales-demand-inventory-analytics"><b>Retail Demand Forecasting</b><br><img src="https://raw.githubusercontent.com/premsagar39/retail-sales-demand-inventory-analytics/main/reports/figures/project_overview.png" alt="Retail Demand Forecasting dashboard" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/premsagar39/zomato-power-bi-dashboard"><b>Zomato Restaurant Insights</b><br><img src="https://raw.githubusercontent.com/premsagar39/zomato-power-bi-dashboard/main/reports/figures/dashboard_overview.png" alt="Zomato Restaurant Insights dashboard" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/premsagar39/retail-sales-demand-inventory-analytics"><b>Retail Demand Forecasting</b><br><img src="https://raw.githubusercontent.com/premsagar39/retail-sales-demand-inventory-analytics/main/reports/figures/project_overview.png?v=20261022-layouts" alt="Retail Demand Forecasting dashboard" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/premsagar39/zomato-power-bi-dashboard"><b>Zomato Restaurant Insights</b><br><img src="https://raw.githubusercontent.com/premsagar39/zomato-power-bi-dashboard/main/reports/figures/dashboard_overview.png?v=20261022-layouts" alt="Zomato Restaurant Insights dashboard" width="100%"></a></td>
 </tr>
 </table>
 
